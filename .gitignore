@@ -1,0 +1,18 @@
+# Sensitive files
+KEY.pem
+terraform.tfstate
+terraform.tfstate.backup
+
+# Temporary files
+*.zip
+*.out
+*.json
+*.txt
+*.so
+
+# Lambda layer
+lambda_layer/
+
+# Misc
+ftp_server_public_ip
+lambda get-function*
