@@ -63,7 +63,7 @@ student-query-sync-project/
 ## Setup Instructions
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/<your-username>/student-query-sync-project.git
+   git clone https://github.com/STRANGERu/student-query-sync-project.git
    cd student-query-sync-project
    ```
 
