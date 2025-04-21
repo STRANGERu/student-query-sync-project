@@ -13,6 +13,10 @@ terraform.tfstate.backup
 # Lambda layer
 lambda_layer/
 
+# Terraform provider binaries and cache
+.terraform/
+.terraform.lock.hcl
+
 # Misc
 ftp_server_public_ip
 lambda get-function*
